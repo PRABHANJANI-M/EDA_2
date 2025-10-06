@@ -115,14 +115,7 @@ A water treatment facility can use this analysis to monitor and classify water s
 
 Health agencies can identify regions at risk of unsafe water supply.
 
-Researchers can study relationships between chemical indicators and potability.<img width="571" height="455" alt="image" src="https://github.com/user-attachments/assets/d0e3447f-aa5b-4d67-a95e-9f758be82ea0" />
-<img width="1189" height="590" alt="image" src="https://github.com/user-attachments/assets/2df61d33-7a29-4a9f-9006-1119f1fdf58b" />
-<img width="471" height="393" alt="image" src="https://github.com/user-attachments/assets/52d5d9ac-f581-4791-8064-f22cc83ef448" />
-<img width="558" height="393" alt="image" src="https://github.com/user-attachments/assets/9c499c0c-fbb1-4b8f-9c75-1a9af04dc0c6" />
-<img width="571" height="455" alt="image" src="https://github.com/user-attachments/assets/84c82b0e-b45d-44c2-bcca-5c42b9e5d237" />
-<img width="571" height="455" alt="image" src="https://github.com/user-attachments/assets/6b3c500d-6e5d-4f9e-8080-8fe2b202f0f1" />
-<img width="571" height="455" alt="image" src="https://github.com/user-attachments/assets/f8f1b6a4-b315-48ec-a239-3845ed79e703" />
-
+Researchers can study relationships between chemical indicators and potability.
 
 
 
